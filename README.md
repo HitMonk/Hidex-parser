@@ -13,7 +13,7 @@ First we need to collect all the different treatments, then sort the files by da
 
 Sample: This title represents the different wells measured by the HIDEX plate reader. The plate reader can measure 24,48 and 96 well plates. This information can either be explicitly fed by the user or measured by the number of wells labelled under Sample title.
 
-The next few titles can also change, but for the simplicity of this parser lets start with these titles:
-OD(440) -- OD corresponding to the wells measured at 440 nm.
-OD(680) -- OD corresponding to the wells measured at 680 nm.
-OD(600) -- OD corresponding to the wells measured at 600 nm.
+The next few titles can also change, but for the simplicity of this parser lets start with these titles:\n
+OD(440) -- OD corresponding to the wells measured at 440 nm.\n
+OD(680) -- OD corresponding to the wells measured at 680 nm.\n
+OD(600) -- OD corresponding to the wells measured at 600 nm.\n
